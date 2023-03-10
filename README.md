@@ -7,7 +7,7 @@ Hello everyone ,
 this is a real-estate selling project made with ReactJS , TailwindCSS and JavaScript
 
 To run the project 
-download an dthe extract the zip file of project
+download and extract the zip file of project
 or  simply copy the link nad instal;l it through you VS code terminal
 
 cd  real-estate ( make sure you are in this folder)
